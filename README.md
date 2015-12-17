@@ -14,4 +14,4 @@ docker run --name cacti-thold \
     analogic/cacti-thold
 ```
 
-You need precreate db user and db itself. Tables are created automaticaly at first start. Initial plugin enabling and settings is up to you.
+You need pre-create db user and db itself. Tables are created automaticaly at first start. Initial plugin enabling and settings is up to you.
